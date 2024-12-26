@@ -1,0 +1,40 @@
+h1{
+    color: violet;
+    font-size: 30px;
+    background-color: beige;
+    text-align: center;
+    border: 2px;
+    border-color: black;
+    border-style:dotted;
+    
+}
+h2{
+    color: brown;
+    font-style: calc();
+}
+h4{
+    color: aqua;
+}
+table,th,tr,td{
+    border: 2px black solid;
+    borde
+}
+#well{
+    color: blue;
+}
+img{
+    width: 400px;
+    padding: 30px;
+}
+.part1{
+    color: black;
+    background-color: orange;
+    margin:40px 60px;
+    padding:60px;
+    background-image: url(https://acsouthernprovince.org/static/2024/10/providence-womens-college-1952.jpg);
+    background-repeat:no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+}
+
